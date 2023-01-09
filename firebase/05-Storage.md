@@ -173,3 +173,5 @@ If you want to store a lot of metadata or otherwise associate a file with applic
 
 ## Retrieve a File
 
+## Delete a File
+
